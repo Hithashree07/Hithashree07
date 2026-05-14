@@ -57,19 +57,6 @@ Interactive dice roller game built using:
 
 ---
 
-## 🏆 Certifications & Achievements
-
-- ✅ Salesforce Virtual Internship
-- ✅ NPTEL Cloud Computing
-- ✅ NPTEL Computer Graphics
-- ✅ Advanced Robotics Applications
-- ✅ UiPath RPA Basics
-- ✅ ServiceNow Administration
-- 🥇 Accenture Gold-Level Achiever
-- 📖 Published Researcher on **5G Wireless Systems**
-
----
-
 ## 📊 Coding Profiles
 
 - 💻 LeetCode – 100+ Problems Solved
@@ -78,13 +65,6 @@ Interactive dice roller game built using:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hithashree07&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hithashree07&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
